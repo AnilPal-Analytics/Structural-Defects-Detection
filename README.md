@@ -1,4 +1,4 @@
-# 🏗️ Structural Defects Detection using AI
+# Structural Defects Detection using AI
 
 An **AI-assisted structural defect identification system** for the construction industry.  
 This Streamlit-based web application uses **Google Gemini Vision (Generative AI)** to analyze uploaded images of structures and automatically generate a **professional defect assessment report**.
