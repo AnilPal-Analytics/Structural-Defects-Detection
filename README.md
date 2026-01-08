@@ -46,4 +46,13 @@ This Streamlit-based web application uses **Google Gemini Vision (Generative AI)
 
 ## 📂 Project Structure
 
+```text
+Structural-Defects-Detection/
+│
+├── webapp.py               # Main Streamlit application
+├── requirements.txt        # Project dependencies
+├── .env                    # API key (not committed)
+├── README.md               # Project documentation
+└── .venv/                  # Virtual environment
+
 
